@@ -1,0 +1,6 @@
+﻿namespace AzureAppServiceLab.git.workflows
+{
+    public class deploy
+    {
+    }
+}
