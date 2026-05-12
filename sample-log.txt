@@ -1,0 +1,1 @@
+﻿Sample log file for Azure App Service Lab - created by Azure CLI script.
