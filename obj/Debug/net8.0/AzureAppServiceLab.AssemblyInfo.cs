@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureAppServiceLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8417e661950fd316b8f76714871eaabcd982bbff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f139eb106997d19b35d0010340a37c2aa959588")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureAppServiceLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureAppServiceLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
