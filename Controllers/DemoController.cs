@@ -7,5 +7,11 @@ namespace AzureAppServiceLab.Controllers
     [ApiController]
     public class DemoController : ControllerBase
     {
+
+        [HttpGet("Hello")]
+        public IActionResult Hello()
+        {
+            return Ok("Hello world from github actions");
+        }
     }
 }
